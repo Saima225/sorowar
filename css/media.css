@@ -1,0 +1,17 @@
+
+@media(max-width:575px) and (min-width:320px){
+
+    
+    .about-text h2 {
+        color: #ffff;
+        font-size: 30px;
+        font-family: lobster;
+        text-align: center;
+    }
+    .about-text a{
+        margin-left: 25%;
+    }
+    .about-text p{
+        text-align: center;
+    }
+}
